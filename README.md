@@ -1,6 +1,8 @@
 # Kanap By Icart Matthieu
 Projet 5 / Construire un site e-commerce en JavaScript
 
+Pour en savoir plus : https://openclassrooms.com/fr/
+
 # Kanap #
 
 This is the front end and back end server for Project 5 of the Web Developer path.
